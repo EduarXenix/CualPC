@@ -11,7 +11,6 @@
 # production
 /build
 
-/src/media
 
 # misc
 .DS_Store
